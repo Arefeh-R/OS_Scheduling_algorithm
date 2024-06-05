@@ -1,8 +1,8 @@
 # OS_Scheduling_algorithm
-multilevel queue 
-we have two queue ,fore ground and back ground
-fore ground : round robin with specific quantum
-back ground : fcfs
-for scheduling between these two queue we have two model 
-AN : absolute priority- non preemption
-AP : absolute priority- preemption
+multilevel queue. 
+We have two queue ,fore ground and back ground. 
+Fore ground : round robin with specific quantum. 
+Back ground : fcfs. 
+For scheduling between these two queue we have two model.  
+First AN (absolute priority- non preemption)
+ , second AP (absolute priority- preemption)
